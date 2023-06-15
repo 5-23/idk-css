@@ -1,6 +1,11 @@
 # idk-css
 내가 몰랐고 유용?한 css 정리
-
+## 초기값
+```css
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+```
 ##  사진
 ### 사진에 그라디언트
 
