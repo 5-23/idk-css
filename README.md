@@ -28,3 +28,6 @@ top: 50%;
 transform: translate(-50%, -50%);
 ```
 그냥 화면 중항에 놔둬준다
+
+# 아직모름
+- animation-timeline
