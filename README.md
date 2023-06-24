@@ -29,5 +29,13 @@ transform: translate(-50%, -50%);
 ```
 그냥 화면 중항에 놔둬준다
 
+## transition
+### transition-origin
+사용하면 요소의 중항을 설정할수 있다
+#### ex
+```css
+transition-origin: 10px center;
+```
+
 # 아직모름
 - animation-timeline
