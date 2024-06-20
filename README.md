@@ -1,5 +1,16 @@
 # idk-css
 내가 몰랐고 유용?한 css 정리
+
+## animation-timeline
+화면에 보여질때 작동할 에니메이션을 설정한다
+
+## transition-behavior
+display가 바뀌는것도 transition이 적용되게 해준다
+```
+transition-behavior: allow-discrete;
+```
+
+
 ## <marquee\>
 글을 움직이게 한다
 
