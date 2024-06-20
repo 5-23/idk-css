@@ -1,5 +1,8 @@
 # idk-css
 내가 몰랐고 유용?한 css 정리
+## <marquee\>
+글을 움직이게 한다
+
 ## 초기값
 ```css
 margin: 0;
