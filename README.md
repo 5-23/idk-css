@@ -1,6 +1,12 @@
 # idk-css
 내가 몰랐고 유용?한 css 정리
 
+## blend mode
+https://www.youtube.com/watch?v=ympDqDes9Wg
+
+## aspect-ratio
+https://www.youtube.com/watch?v=cXwN8vFpQ_I&list=LL
+
 ## animation-timeline
 화면에 보여질때 작동할 에니메이션을 설정한다
 
